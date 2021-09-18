@@ -1,0 +1,32 @@
+table {
+    margin-top: 200px;
+    margin-left: 500px;
+}
+
+.table {
+    border: 5px solid blue;
+    width: 800px;
+    height: 400px;
+}
+
+.caption {
+    font-size: 30px;
+    color: blue;
+}
+
+.span {
+    font-size: 45px;
+    color: orangered;
+}
+
+th {
+    background-color: rgb(243, 179, 206);
+    border: 1px solid blue;    
+}
+
+td {
+    background-color: aquamarine;
+    border: 1px solid blue;
+    text-align: center;
+    font-weight: bold;
+}
